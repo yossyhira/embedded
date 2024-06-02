@@ -23,7 +23,7 @@ int main(){
  return 0; 
 }
 
-
+  
 void func(int x){ 
     while(1){
     fgets(s, sizeof(s), stdin);
